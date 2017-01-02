@@ -2,7 +2,6 @@
 
 # ES6 Javascript React.js, Babel.js, browserify, babelify
 
-# Date: 2017.01.01
 
 Information: It very simple bare base setup for React.js Babylon.js with gulp. Note there are simple package.json for debug purpose.
 
@@ -32,3 +31,4 @@ Command line since it in the package.json.
 Credits:
  * http://blog.revathskumar.com/2016/02/browserify-separate-app-and-vendor-bundles.html
  * https://medium.com/@zymnytskiy/how-to-setup-gulp-with-es7-and-react-41b0dcb73d65#.sfj7dvmln
+ * http://babylonjs.com/
