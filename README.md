@@ -2,6 +2,10 @@
 
 # ES6 Javascript React.js, Babel.js, browserify, babelify
 
+Version:
+ * Nodejs 7.0.0
+ * Babylon.js 2.5
+ * ES6
 
 Information: It very simple bare base setup for React.js Babylon.js with gulp. Note there are simple package.json for debug purpose.
 
